@@ -73,10 +73,10 @@ We would love to hear from you so please do send us an email with any feedback, 
 
 ## About Us
 
-We would love to hear from you so please do send us an email with any feedback, suggestions or even stories about how our code has helped (or not helped). Please email us at <hello@opstax.com>. 
+We are a technology accelerator utilising our DevOps and Software experience to build affordable best-in-class solutions for our customers. Visit [www.opstax.com](https://www.opstax.com) for more information or to contact us.
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [opstax.com](https://www.opstax.com) &nbsp;&middot;&nbsp;
+> Opstax [@opstax](https://github.com/opstax) &nbsp;&middot;&nbsp;
+> Twitter [@opstax](https://twitter.com/opstax)
