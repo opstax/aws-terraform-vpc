@@ -78,5 +78,5 @@ We are a technology accelerator utilising our DevOps and Software experience to 
 ---
 
 > [opstax.com](https://www.opstax.com) &nbsp;&middot;&nbsp;
-> Opstax [@opstax](https://github.com/opstax) &nbsp;&middot;&nbsp;
+> Github [@opstax](https://github.com/opstax) &nbsp;&middot;&nbsp;
 > Twitter [@opstax](https://twitter.com/opstax)
